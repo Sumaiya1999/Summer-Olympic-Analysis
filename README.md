@@ -1,5 +1,3 @@
-# Summer-Olympic-Analysis
-This is ETG Internship Assignment2 named "Summer Olympic Analysis".
 
 # Summer-Olympic-Analysis
 This is Assignment2 of ETG internship named "Summer Olympic Analysis".
